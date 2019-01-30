@@ -46,6 +46,8 @@ jupyter notebook
 
 Run charts.py in jupyter and capture the screen output.
 
+![](friend-graph.png)
+
 # Part II
 
 Implements two functions in friends.py.
