@@ -41,3 +41,11 @@ jupyter notebook
 7. Turn on matplotlib inline mode in Jupyter
 
 ```matplotlib inline```
+
+# Part I
+
+Run charts.py in jupyter and capture the screen output.
+
+# Part II
+
+Implements two functions in friends.py.
