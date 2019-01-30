@@ -20,7 +20,8 @@ source venv/bin/activate
 
 3. Install PIP dependencies
 
-```pip3 install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn
+```
+pip3 install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn
 ```
 
 4. Check your installation
