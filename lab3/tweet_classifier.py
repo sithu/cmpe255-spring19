@@ -44,18 +44,12 @@ def train_then_build_model(data_labels, features_nd):
     # ::{prediction}::{tweet}
     # TODO
 
-    import random
-    j = random.randint(0,len(X_test)-7)
-    for i in range(j,j+7):
-        print(y_pred[0])
-        ind = features_nd.tolist().index(X_test[i].tolist())
-        print(data[ind].strip())
     
     # print accuracy
     from sklearn.metrics import accuracy_score
     # TODO
     print("Accuracy={}".format('fix-me'))
-    
+
 def process():
     data, data_labels = load_data()
     features_nd = transform_to_features(data)
