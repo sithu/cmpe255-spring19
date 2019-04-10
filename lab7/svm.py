@@ -56,6 +56,7 @@ def import_iris():
 
 def polynomial_kernel():
     # TODO
+    # NOTE: use 8-degree in the degree hyperparameter. 
     # Trains, predicts and evaluates the model
 
 def gaussian_kernel():
