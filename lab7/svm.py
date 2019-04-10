@@ -72,5 +72,6 @@ def test():
     polynomial_kernel()
     gaussian_kernel()
     sigmoid_kernel()
+    # NOTE: 3-point extra credit for plotting three kernel models.
 
 test()
